@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yungouos.pay:yungouos-pay-sdk:2.0.14">
+    <CLASSES>
+      <root url="jar://D:/MAVEN/repository/com/yungouos/pay/yungouos-pay-sdk/2.0.14/yungouos-pay-sdk-2.0.14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/MAVEN/repository/com/yungouos/pay/yungouos-pay-sdk/2.0.14/yungouos-pay-sdk-2.0.14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/MAVEN/repository/com/yungouos/pay/yungouos-pay-sdk/2.0.14/yungouos-pay-sdk-2.0.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

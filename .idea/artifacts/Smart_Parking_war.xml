@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Smart-Parking:war">
+    <output-path>$PROJECT_DIR$/smart-parking-master/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>Smart-Parking</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="Smart-Parking.war">
+      <element id="artifact" artifact-name="Smart-Parking:war exploded" />
+    </root>
+  </artifact>
+</component>
